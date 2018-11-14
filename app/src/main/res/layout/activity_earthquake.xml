@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/bgcolor"
-    tools:context=".activity_storm">
+    tools:context=".activity_earthquake">
 
     <TextView
         android:id="@+id/textView"
@@ -13,7 +13,7 @@
         android:layout_height="65dp"
         android:background="#000000"
         android:gravity="center"
-        android:text="Storm"
+        android:text="Earthquake"
         android:textColor="@color/white"
         android:textSize="45sp"
         app:fontFamily="casual"
@@ -45,7 +45,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.659"
-        app:srcCompat="@drawable/stormround" />
+        app:srcCompat="@drawable/earthquakeround" />
 
     <android.support.constraint.Guideline
         android:id="@+id/guideline12"
