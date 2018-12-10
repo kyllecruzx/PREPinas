@@ -18,7 +18,10 @@
         </activity>
         <activity android:name=".activity_storm" />
         <activity android:name=".activity_fire" />
-        <activity android:name=".activity_earthquake"></activity>
+        <activity android:name=".activity_earthquake" />
+        <activity android:name=".activity_updatestorm" />
+        <activity android:name=".activity_updateearth" />
+        <activity android:name=".activity_updatefire"></activity>
     </application>
 
 </manifest>
